@@ -1,0 +1,1 @@
+This is the first of our full stack apps, connecting to a database.  Users have the ability to get an initial list of ponies, as well as add, edit and delete ponies.  
